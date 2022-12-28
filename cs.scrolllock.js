@@ -2,7 +2,7 @@
  * cs.scrolllock JS 1.0
  * Date: 2022-12-26
  * Free Source Code
- * Copyright 2022 Clau Senduk.
+ * Copyright © 2022 Clau Senduk.
  * https://clausenduk.my.id
  * 
  */
