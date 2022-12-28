@@ -1,7 +1,7 @@
 ## Cs Scroll Lock JS
 ============
 
-Javascript plugins for lock web page.
+Javascript plugins for lock scroll web page.
 
 This is a free source that can be used in your project.
 
